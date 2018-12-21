@@ -15,4 +15,4 @@ This is an hadder
   * 파랑
   * 노랑
   
-  ![](C:\Users\student\PycharmProjects\ssafy_bot\img\cat.jpg)
+![](C:\Users\student\PycharmProjects\ssafy_bot\img\cat.jpg)
