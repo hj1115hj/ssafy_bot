@@ -12,7 +12,7 @@ This is an hadder
 > my code is a book
 
 * 빨강
- *파랑
-  *노랑
+* 파랑
+* 노랑
   
 
