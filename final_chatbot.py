@@ -16,7 +16,7 @@ from flask import Flask, request, make_response, render_template
 
 app = Flask(__name__)
 
-slack_token = "xoxb-507428687235-508484995299-jLayfaSIoXfy1EBV9LZoogFO"  # 자신의 토큰 값을 입력해줍니다.
+slack_token = "xoxb-507428687235-508484995299-rjpy6Qf6dB6xXcuwvQmKmswa"  # 자신의 토큰 값을 입력해줍니다.
 slack_client_id = "507428687235.509990628982"  # client_id 값을 입력합니다
 slack_client_secret = "507428687235.509990628982"  # client_secret 값을 입력합니다
 slack_verification = "y0uuyFCYToJRvjbfqLnpzdC9"  # verification 값을 입력합니다.
